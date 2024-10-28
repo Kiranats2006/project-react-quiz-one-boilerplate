@@ -1,5 +1,5 @@
 import './App.css';
-import HomeComponent from './components/Quiz components';
+import HomeComponent from './components/Quizcomponents';
 import QuizComponent from './components/HomeComponents';
 import ResultComponent from './components/ResultComponents';
 
